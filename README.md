@@ -7,3 +7,4 @@ Download the ".ino" sketch and upload it to your Arduino device: if you are an e
 
 ### Notes:
 This is not a medical device and won't in any case substitute a medical opinion. If you want to be sure about any type of pathology, please ask a doctor!
+Video presentation here: https://youtu.be/PuiUhqcEnzU?si=MZSMX8OK37cZTLYM
